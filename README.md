@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **3D VR GAME**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **kutnik.contact@gmail.com**
 
