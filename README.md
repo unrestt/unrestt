@@ -1,15 +1,9 @@
 <h2 align="left">Hi 👋! My name is Bartek and I'm a Junior-Mid Developer from Poland</h2>
-
 ###
-
 <br clear="both">
-
 <h4 align="left">My name is Bartosz Kutnik, I am 16 years old, and I come from Toruń, Poland. Currently, I am in the second year of high school, studying to become a programming technician, and my journey into the world of programming began in the 8th grade of primary school. This fascinating two-year experience is still developing as I delve deeper into coding and algorithms. As a programmer, my interests extend beyond just writing code; I am also involved in the broader realm of computer gaming. Not only do I program games, but I also test them, which helps me better understand the mechanisms and refine my skills. Additionally, I am passionate about creating graphics, which brings me as much joy as programming does. As a programmer, I strive to continually broaden my horizons, bringing new, innovative projects to life.</h4>
-
 ###
-
 <br clear="both">
-
 <div align="center">
   <a href="https://www.youtube.com/channel/UCmHtX094DRPeE-XCDXhyMDA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
