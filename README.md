@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrestt&label=Profile%20views&color=0e75b6&style=flat" alt="unrestt" /> </p>
 
-- 🔭 I’m currently working on **2D RPG game**
+- 🔭 I’m currently working on **3D VR GAME**
 
 - 🌱 I’m currently learning **JavaScript**
 
