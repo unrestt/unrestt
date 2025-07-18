@@ -3,7 +3,8 @@
 <h2 align="left">Hi 👋! My name is Bartek and I'm a Junior Developer from Poland</h2>
 <br clear="both">
 
-<p align="left">My name is Bartosz Kutnik, I am 17 years old, and I come from Toruń, Poland. Currently, I am in the 3rd year of high school, studying to become a programming technician, and my journey into the world of programming began in the 8th grade of primary school. This fascinating two-year experience is still developing as I delve deeper into coding and algorithms. As a programmer, my interests extend beyond just writing code; I am also involved in the broader realm of computer gaming. Not only do I program games, but I also test them, which helps me better understand the mechanisms and refine my skills. Additionally, I am passionate about creating graphics, which brings me as much joy as programming does. As a programmer, I strive to continually broaden my horizons, bringing new, innovative projects to life.</p>
+<p align="left">My name is Bartosz Kutnik, I'm 17 years old, and currently a 4th-year student at a technical high school majoring in software development. I've been passionate about programming since the 8th grade of primary school – that's over 4 years of learning, creating, and growing. I specialize in building modern, professional websites that combine simplicity, functionality, and clean design. I'm constantly exploring new programming languages and technologies to expand my skill set.
+Every day, I work on improving my abilities by creating new projects, learning new concepts, and gaining valuable experience as a developer.</p>
 
 ###
 
