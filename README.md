@@ -1,45 +1,46 @@
 # Cześć, jestem Bartek! 👋
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;React+Enthusiast;Technik+Programista" alt="Typing SVG" />
-</p>
-### 👨‍💻 O mnie
-- 🇵🇱 Jestem z **Polski**, mam **18 lat**.
-- 🎓 Obecnie kończę **4 klasę technikum** na profilu **Technik Programista**.
-- 🚀 Tworzę nowoczesne strony internetowe, stawiając na najświeższe rozwiązania (React ecosystem).
-- 📈 Każdego dnia poszerzam swoją wiedzę i doskonalę warsztat pracy.
+
+### 🎓 O mnie
+Jestem 18-letnim pasjonatem programowania z Polski, obecnie uczniem IV klasy technikum na profilu **Technik Programista**. Moim głównym celem jest tworzenie nowoczesnych, wydajnych i estetycznych aplikacji webowych. 
+
+* 🌱 Aktualnie intensywnie rozwijam się w ekosystemie **React**.
+* 🚀 Każdego dnia poznaję nowe technologie i szlifuję swój warsztat.
+* 💻 Skupiam się na pisaniu czystego kodu i wykorzystywaniu najnowszych standardów branżowych.
+
 ---
-### 🛠️ Moje Główne Technologie (Tech Stack)
-W tych technologiach czuję się jak ryba w wodzie:
+
+### 🛠️ Technologie i narzędzia
+
+#### Frontend & Web Development (Główne zainteresowania)
+Z tymi technologiami pracuję najwięcej i to w nich buduję swoje nowoczesne projekty:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+* **Zarządzanie stanem i danymi:** Redux Toolkit, TanStack Query (React Query)
+* **Backend & Inne:** Java, Python, C#, PHP, SQL
+* **Game Dev:** Unity
+
+---
+
+### 📈 Statystyki GitHub
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs" />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK_GITHUB&layout=compact&theme=dracula" />
 </p>
-**Dodatkowo korzystam z:**
-`TanStack Query`, `Redux Toolkit`, `Vite`, `React Router`
+
 ---
-### 📚 Inne zainteresowania i umiejętności
-Nie ograniczam się tylko do frontendu! Eksperymentuję i rozwijam się również w:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,php,unity,mysql" />
-  </a>
-</p>
-- 🎮 **GameDev:** Tworzenie gier w Unity (C#)
-- 💾 **Bazy danych:** SQL & MySQL
-- 🐍 **Scripting:** Python & Java
+
+### 📫 Kontakt
+Chętnie nawiążę współpracę lub wymienię się doświadczeniami!
+
+* **Email:** [twoj-email@gmail.com](mailto:twoj-email@gmail.com)
+* **Facebook:** [Twój Profil](https://www.facebook.com/TWOJ_PROFIL)
+
 ---
-### 📊 Moje Statystyki GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWOJA_NAZWA_UZYTKOWNIKA&show_icons=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJA_NAZWA_UZYTKOWNIKA&layout=compact&theme=react&hide_border=true" />
-</p>
----
-### 📫 Skontaktuj się ze mną!
-Chętnie pogadam o projektach lub technologiach:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](LINK_DO_TWOJEGO_FACEBOOKA)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TWÓJ_MAIL@gmail.com)
----
-<p align="center">
-  <i>"Zawsze w trybie nauki... 🚀"</i>
+  <i>"Zawsze w procesie nauki, zawsze krok do przodu."</i>
 </p>
