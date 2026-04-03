@@ -4,7 +4,7 @@
 
 ### A passionate frontend developer from Poland
 
-<img src="https://github.com/unrestt.png" alt="Bartosz Kutnik" width="150" height="150" style="border-radius: 50%;" />
+
 
 </div>
 
