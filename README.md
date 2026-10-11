@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-- 🎓 **Education**: 4th year of technical high school (IT Specialist)
+- 🎓 **Education**: 5th year of technical high school (IT Specialist)
 - 🚀 **Specialization**: Modern Web Development (**React** Ecosystem)
 - 💡 **Mindset**: Daily learning and striving for perfection in code
 - 🌍 **Location**: Poland 🇵🇱
